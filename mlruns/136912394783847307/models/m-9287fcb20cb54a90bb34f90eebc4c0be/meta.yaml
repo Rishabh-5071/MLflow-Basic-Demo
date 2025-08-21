@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/rakesh/OneDrive/Desktop/ml_flow/MLflow-Basic-Demo/mlruns/136912394783847307/models/m-9287fcb20cb54a90bb34f90eebc4c0be/artifacts
+creation_timestamp: 1754635743802
+experiment_id: '136912394783847307'
+last_updated_timestamp: 1754635752887
+model_id: m-9287fcb20cb54a90bb34f90eebc4c0be
+model_type: null
+name: DecisionTree
+source_run_id: 63419159f87e4e4199e52e2f8ab643d7
+status: 2
+status_message: null

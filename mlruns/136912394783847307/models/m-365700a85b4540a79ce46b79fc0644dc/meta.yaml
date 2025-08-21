@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/rakesh/OneDrive/Desktop/ml_flow/MLflow-Basic-Demo/mlruns/136912394783847307/models/m-365700a85b4540a79ce46b79fc0644dc/artifacts
+creation_timestamp: 1755494062696
+experiment_id: '136912394783847307'
+last_updated_timestamp: 1755494067332
+model_id: m-365700a85b4540a79ce46b79fc0644dc
+model_type: null
+name: XGBoost
+source_run_id: d80ef946d2804e68bed146ae307be7c0
+status: 2
+status_message: null

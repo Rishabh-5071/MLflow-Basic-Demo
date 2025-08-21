@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/rakesh/OneDrive/Desktop/ml_flow/MLflow-Basic-Demo/mlruns/136912394783847307/models/m-07e68ba4f8a64a83bb63621dca78ac32/artifacts
+creation_timestamp: 1754635780177
+experiment_id: '136912394783847307'
+last_updated_timestamp: 1754635788046
+model_id: m-07e68ba4f8a64a83bb63621dca78ac32
+model_type: null
+name: AdaBoost
+source_run_id: d2d54ae481ae46938b9d7f5c39cd5035
+status: 2
+status_message: null

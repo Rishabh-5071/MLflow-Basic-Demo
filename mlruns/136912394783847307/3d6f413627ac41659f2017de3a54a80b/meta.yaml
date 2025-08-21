@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/rakesh/OneDrive/Desktop/ml_flow/MLflow-Basic-Demo/mlruns/136912394783847307/3d6f413627ac41659f2017de3a54a80b/artifacts
+end_time: 1755494076360
+entry_point_name: ''
+experiment_id: '136912394783847307'
+lifecycle_stage: active
+run_id: 3d6f413627ac41659f2017de3a54a80b
+run_name: GradientBoosting
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755494071881
+status: 3
+tags: []
+user_id: rakesh

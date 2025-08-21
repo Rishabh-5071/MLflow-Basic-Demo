@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/rakesh/OneDrive/Desktop/ml_flow/MLflow-Basic-Demo/mlruns/136912394783847307/models/m-a4f6d5d5b1e544dabb228311b93ab2eb/artifacts
+creation_timestamp: 1755494088960
+experiment_id: '136912394783847307'
+last_updated_timestamp: 1755494093337
+model_id: m-a4f6d5d5b1e544dabb228311b93ab2eb
+model_type: null
+name: ExtraTrees
+source_run_id: ec0d756c05b84a7aabd1a5fbc5a60880
+status: 2
+status_message: null

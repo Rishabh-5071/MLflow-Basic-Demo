@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/rakesh/OneDrive/Desktop/ml_flow/MLflow-Basic-Demo/mlruns/801365391951012779/c4b24157d92643a6a66b91c44f9a7672/artifacts
+end_time: 1755782840892
+entry_point_name: ''
+experiment_id: '801365391951012779'
+lifecycle_stage: active
+run_id: c4b24157d92643a6a66b91c44f9a7672
+run_name: charming-cat-762
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755782832123
+status: 3
+tags: []
+user_id: Rishabh

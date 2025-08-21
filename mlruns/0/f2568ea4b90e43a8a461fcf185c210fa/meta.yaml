@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/rakesh/OneDrive/Desktop/ml_flow/MLflow-Basic-Demo/mlruns/0/f2568ea4b90e43a8a461fcf185c210fa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2568ea4b90e43a8a461fcf185c210fa
+run_name: stylish-cub-354
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754633945566
+status: 1
+tags: []
+user_id: rakesh

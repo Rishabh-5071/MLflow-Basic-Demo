@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/rakesh/OneDrive/Desktop/ml_flow/MLflow-Basic-Demo/mlruns/136912394783847307/models/m-748ab4e06c2e420985456dc0236cf5f9/artifacts
+creation_timestamp: 1755494080488
+experiment_id: '136912394783847307'
+last_updated_timestamp: 1755494084298
+model_id: m-748ab4e06c2e420985456dc0236cf5f9
+model_type: null
+name: SVM
+source_run_id: acb483fce25d47e2a3acddfa0a019320
+status: 2
+status_message: null

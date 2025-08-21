@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/rakesh/OneDrive/Desktop/ml_flow/MLflow-Basic-Demo/mlruns/136912394783847307/5230e51d8c8c4ae491a56128e10292cd/artifacts
+end_time: 1755494057765
+entry_point_name: ''
+experiment_id: '136912394783847307'
+lifecycle_stage: active
+run_id: 5230e51d8c8c4ae491a56128e10292cd
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755494051721
+status: 3
+tags: []
+user_id: rakesh

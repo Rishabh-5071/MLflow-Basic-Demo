@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/rakesh/OneDrive/Desktop/ml_flow/MLflow-Basic-Demo/mlruns/801365391951012779/5c40422c169345c2ba3c1a4bb23478d8/artifacts
+end_time: 1755494034438
+entry_point_name: ''
+experiment_id: '801365391951012779'
+lifecycle_stage: active
+run_id: 5c40422c169345c2ba3c1a4bb23478d8
+run_name: dapper-turtle-366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755494027337
+status: 3
+tags: []
+user_id: rakesh

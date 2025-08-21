@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/rakesh/OneDrive/Desktop/ml_flow/MLflow-Basic-Demo/mlruns/136912394783847307/models/m-749468a6764e49f1891cff43ff339365/artifacts
+creation_timestamp: 1754635487224
+experiment_id: '136912394783847307'
+last_updated_timestamp: 1754635734179
+model_id: m-749468a6764e49f1891cff43ff339365
+model_type: null
+name: RandomForest
+source_run_id: aa10b21f67ab48adafafc7b5fe2a1485
+status: 2
+status_message: null

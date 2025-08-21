@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/rakesh/OneDrive/Desktop/ml_flow/MLflow-Basic-Demo/mlruns/801365391951012779/e79f3bd4659045f7bc4b54f3577a1529/artifacts
+end_time: 1754635106969
+entry_point_name: ''
+experiment_id: '801365391951012779'
+lifecycle_stage: active
+run_id: e79f3bd4659045f7bc4b54f3577a1529
+run_name: glamorous-snipe-522
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754635094003
+status: 3
+tags: []
+user_id: rakesh

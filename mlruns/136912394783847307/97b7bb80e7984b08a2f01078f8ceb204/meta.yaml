@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/rakesh/OneDrive/Desktop/ml_flow/MLflow-Basic-Demo/mlruns/136912394783847307/97b7bb80e7984b08a2f01078f8ceb204/artifacts
+end_time: 1755494671860
+entry_point_name: ''
+experiment_id: '136912394783847307'
+lifecycle_stage: active
+run_id: 97b7bb80e7984b08a2f01078f8ceb204
+run_name: XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755494667607
+status: 3
+tags: []
+user_id: rakesh

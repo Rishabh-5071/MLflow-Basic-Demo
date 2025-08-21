@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/rakesh/OneDrive/Desktop/ml_flow/MLflow-Basic-Demo/mlruns/136912394783847307/8f7915f36bdb4fe3b1eef6aa13cee50e/artifacts
+end_time: 1755494062386
+entry_point_name: ''
+experiment_id: '136912394783847307'
+lifecycle_stage: active
+run_id: 8f7915f36bdb4fe3b1eef6aa13cee50e
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755494057773
+status: 3
+tags: []
+user_id: rakesh

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/rakesh/OneDrive/Desktop/ml_flow/MLflow-Basic-Demo/mlruns/136912394783847307/30aacbf8a1924297a005aafeaf4760c5/artifacts
+end_time: 1754635806343
+entry_point_name: ''
+experiment_id: '136912394783847307'
+lifecycle_stage: active
+run_id: 30aacbf8a1924297a005aafeaf4760c5
+run_name: NaiveBayes
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754635797755
+status: 3
+tags: []
+user_id: rakesh

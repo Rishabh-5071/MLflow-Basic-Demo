@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/rakesh/OneDrive/Desktop/ml_flow/MLflow-Basic-Demo/mlruns/801365391951012779/4b1c14d0ddfb4cd882b8192da4e91973/artifacts
+end_time: 1755785220419
+entry_point_name: ''
+experiment_id: '801365391951012779'
+lifecycle_stage: active
+run_id: 4b1c14d0ddfb4cd882b8192da4e91973
+run_name: likeable-gnu-256
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755785214533
+status: 4
+tags: []
+user_id: Rishabh

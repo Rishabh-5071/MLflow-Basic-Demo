@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/rakesh/OneDrive/Desktop/ml_flow/MLflow-Basic-Demo/mlruns/136912394783847307/models/m-8ee451c3d40c4c4e904e4864f1135927/artifacts
+creation_timestamp: 1754635753872
+experiment_id: '136912394783847307'
+last_updated_timestamp: 1754635762336
+model_id: m-8ee451c3d40c4c4e904e4864f1135927
+model_type: null
+name: GradientBoosting
+source_run_id: 92bdb7b3558a405186466dd13add9a53
+status: 2
+status_message: null

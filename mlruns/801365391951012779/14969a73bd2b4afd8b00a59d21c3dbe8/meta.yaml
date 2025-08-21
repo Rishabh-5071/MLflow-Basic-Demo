@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/rakesh/OneDrive/Desktop/ml_flow/MLflow-Basic-Demo/mlruns/801365391951012779/14969a73bd2b4afd8b00a59d21c3dbe8/artifacts
+end_time: 1754640597138
+entry_point_name: ''
+experiment_id: '801365391951012779'
+lifecycle_stage: active
+run_id: 14969a73bd2b4afd8b00a59d21c3dbe8
+run_name: traveling-steed-901
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754640585744
+status: 3
+tags: []
+user_id: rakesh

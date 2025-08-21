@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/rakesh/OneDrive/Desktop/ml_flow/MLflow-Basic-Demo/mlruns/136912394783847307/models/m-fd7c2d362b5b4f6eab71c21dba467a81/artifacts
+creation_timestamp: 1755494697129
+experiment_id: '136912394783847307'
+last_updated_timestamp: 1755494701278
+model_id: m-fd7c2d362b5b4f6eab71c21dba467a81
+model_type: null
+name: NaiveBayes
+source_run_id: 879b39c990bd4a87bc57f6368caad2a6
+status: 2
+status_message: null

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/rakesh/OneDrive/Desktop/ml_flow/MLflow-Basic-Demo/mlruns/801365391951012779/models/m-cfbc01bae5c84b988a3ff45a3b290adf/artifacts
+creation_timestamp: 1755494027479
+experiment_id: '801365391951012779'
+last_updated_timestamp: 1755494034416
+model_id: m-cfbc01bae5c84b988a3ff45a3b290adf
+model_type: null
+name: Logistic_Regression_Model
+source_run_id: 5c40422c169345c2ba3c1a4bb23478d8
+status: 2
+status_message: null

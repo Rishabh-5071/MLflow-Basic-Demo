@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/rakesh/OneDrive/Desktop/ml_flow/MLflow-Basic-Demo/mlruns/136912394783847307/models/m-fa23cceaef90434f951fd00cb6d1e9b6/artifacts
+creation_timestamp: 1755494680401
+experiment_id: '136912394783847307'
+last_updated_timestamp: 1755494684323
+model_id: m-fa23cceaef90434f951fd00cb6d1e9b6
+model_type: null
+name: KNN
+source_run_id: ce50ad84eeee45e4b3a95b8b35845b70
+status: 2
+status_message: null

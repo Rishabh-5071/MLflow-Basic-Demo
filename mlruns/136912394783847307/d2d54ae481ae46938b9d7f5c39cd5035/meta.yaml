@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/rakesh/OneDrive/Desktop/ml_flow/MLflow-Basic-Demo/mlruns/136912394783847307/d2d54ae481ae46938b9d7f5c39cd5035/artifacts
+end_time: 1754635788076
+entry_point_name: ''
+experiment_id: '136912394783847307'
+lifecycle_stage: active
+run_id: d2d54ae481ae46938b9d7f5c39cd5035
+run_name: AdaBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754635779711
+status: 3
+tags: []
+user_id: rakesh

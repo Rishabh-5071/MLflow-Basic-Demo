@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/rakesh/OneDrive/Desktop/ml_flow/MLflow-Basic-Demo/mlruns/136912394783847307/acb483fce25d47e2a3acddfa0a019320/artifacts
+end_time: 1755494084321
+entry_point_name: ''
+experiment_id: '136912394783847307'
+lifecycle_stage: active
+run_id: acb483fce25d47e2a3acddfa0a019320
+run_name: SVM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755494080254
+status: 3
+tags: []
+user_id: rakesh
